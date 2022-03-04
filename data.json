@@ -1,0 +1,44 @@
+[{
+    "name":"Rahul",
+    "email":"arvindchoupal1000@gmail.com",
+    "last name":"sharma",
+    "hobbies":["Painting","Cricket"],
+    "longitude":"85.9148","latitude":"26.191700",
+   "profilePicture":"https://i.pinimg.com/236x/70/ae/fa/70aefa95a59e8e1db42c9badcb80bd4e--sexy-men-hot-men.jpg",
+   "reviews":[{"arvind":"good man","deepak":"bad man"}],
+   "status":"active"
+},
+{
+    "name":"kian",
+    "email":"arvindchoupal1000@gmail.com",
+    "last name":"sharma",
+    "hobbies":["Painting","Cricket","Music"],
+    "longitude":"23.22","latitude":"65.22",
+   "profilePicture":"https://cdnb.artstation.com/p/assets/images/images/023/806/749/large/kotori-natume-01-30.jpg?1580397256&dl=1",
+   "reviews":[{"arvind":"good man"}],
+   "status":"background"
+},
+{
+    "name":"deepak",
+    "email":"arvindchoupal100@gmail.com",
+    "last name":"sharma",
+    "hobbies":["Reading","Cricket"],
+    "longitude":"87.0866176","latitude":"26.2352105",
+    "profilePicture":"https://media1.popsugar-assets.com/files/thumbor/5fvpmG5AeEtgueGHm4BXirq9rkU/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2013/11/06/006/n/3019466/e7f759b66f97efe9_thumb_temp257110631353958535/i/Hot-Guys-Mustaches.jpg",
+    "reviews":[{"arvind":"good man"}],
+    "status":"background"
+}
+,{
+    "name":"deepa",
+    "email":"arvindchoupal10@gmail.com",
+    "last name":"sharma",
+    "hobbies":["Reading","Cricket"],
+    "longitude":"87.066176","latitude":"26.2352105",
+    "profilePicture":"https://media1.popsugar-assets.com/files/thumbor/5fvpmG5AeEtgueGHm4BXirq9rkU/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2013/11/06/006/n/3019466/e7f759b66f97efe9_thumb_temp257110631353958535/i/Hot-Guys-Mustaches.jpg",
+    "reviews":[{"arvind":"god man"}],
+    "status":"inactive"
+}
+
+
+
+]
